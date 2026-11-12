@@ -1,0 +1,10 @@
+{
+  "packageName": "app.dailyledger.basic",
+  "versionName": "0.4.1",
+  "versionCode": 3,
+  "minSdk": 24,
+  "sizeBytes": 3276398,
+  "sha256": "d95ae701f35521aa381759802729da44e5e18285d8d3ba98c239586eef0c589b",
+  "apkUrl": "https://raw.githubusercontent.com/silvanoran04-source/daily-ledger-updates/main/updates/releases/daily-ledger-v0.4.1.apk",
+  "notes": "更新链路验证版：与 0.4.0 功能相同，用于验证在 App 内下载并升级到新版本。账本格式保持不变。"
+}
